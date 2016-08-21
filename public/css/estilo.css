@@ -24,8 +24,6 @@ header {
 .content {
     position: relative;
     z-index: 1;
-    border-top: 1px solid black;
-    border-bottom: 1px solid black; 
     min-height: 500px;
 }
 footer {
